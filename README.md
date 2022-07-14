@@ -1,4 +1,6 @@
 # Pixel Art Maker Project
+https://sussananukem.github.io/PIXEL-ART-PROJECT/
+
 
 ## Table of Contents
 
@@ -15,4 +17,4 @@ For specific, detailed instructions, look at the project instructions in the [Ud
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
-https://ziky19.github.io/PIXEL-ART-PROJECT/
+ 
